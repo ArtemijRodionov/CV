@@ -1,13 +1,13 @@
 sudo: required
 install:
 - sudo apt-get update
-- apt-get install texlive pandoc
+- sudo apt-get install texlive pandoc
 
 jobs:
   include:
   - stage: Generate pdf files
-  - script: pandoc -o Aremiy_Rodionov_CV.pdf README.md
-  - script: pandoc -o Aremiy_Rodionov_CV.ru.pdf README.ru.md
+    script: pandoc -o Aremiy_Rodionov_CV.pdf README.md
+    script: pandoc -o Aremiy_Rodionov_CV.ru.pdf README.ru.md
 
   - stage: GitHub Release
     script: skip
