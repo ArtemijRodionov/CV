@@ -21,18 +21,24 @@ IT engineer with experience in complex projects and distributed teams. Strong ba
 - Django, Flask, asyncio, aiohttp, Selenium, jQuery;
 - Docker, Swarm, Heroku, Sentry;
 - PostgreSQL, Redis, RabbitMQ;
-- TDD, Microtasking, Code review, CI, CD
+- TDD, Micro-tasking, Code review, CI, CD
 
-## Work Experience
+## Recent Projects
 
-### december 2017 &mdash; may 2018 @ [8gen](https://8gen.team/)
+### december 2017 &mdash; may 2018 @ [Cryptocurrency trading bot](https://github.com/fidals/cryptotrader)
 
-Prototype of cryptocurrency trading bot. I developed a unified API for exchanges, a trading dashboard and algorithms. The project archive may be found on [Github](https://github.com/fidals/cryptotrader). Async Event-Driven architecture; pytest unit and integration tests; TimescaleDB, Redis; Drone CI, Docker, Sentry.
+I developed a unified API for exchanges, a trading dashboard and algorithms. Async Event-Driven architecture; pytest unit and integration tests; TimescaleDB, Redis; Drone CI, Docker, Sentry.
 
-### march 2017 &mdash; december 2017 @ [START](https://start.ru/)
+### march 2017 &mdash; december 2017 @ [Streaming media platform](https://start.ru/)
 
-START is a streaming media platform with REST microservices architecture. I worked mostly on video transcoding services, but also on REST APIs and admin dashboard. Sync/Async REST services; MongoDB, Redis, RabbitMQ; Gitlab CI, Docker, Sentry; Kong API gateway; Yandextank; ffmpeg to handle media containers; Nginx-based VOD transcoding module.
+I worked mostly on video transcoding services, but also on REST APIs and admin dashboard. Sync/Async REST microservices services; MongoDB, Redis, RabbitMQ; Gitlab CI, Docker, Sentry; Kong API gateway; Yandextank; ffmpeg to handle media containers; Nginx-based VOD transcoding module.
 
-### july 2016 &mdash; now @ [Fidals](https://fidals.com/)
+### july 2016 &mdash; now @ [Online stores](https://github.com/fidals/)
 
-I worked on online stores based on our own e-commerce Django packages. Projects are open source and may be found on [Github](https://github.com/fidals/). Python, JavaScript ES6; Django, jQuery; Automated Selenium integration tests; PostgreSQL, Redis, RabbitMQ; Drone CI, Docker, Sentry.
+I worked on online stores [Shopelectro](https://github.com/fidals/shopelectro) and [Stroyprombeton](https://github.com/fidals/Stroyprombeton) based on our own e-commerce Django packages. Python, JavaScript ES6; Django, jQuery; Automated Selenium integration tests; PostgreSQL, Redis, RabbitMQ; Drone CI, Docker, Sentry.
+
+## Career
+
+### july 2016 &mdash; now: Python developer @ [Fidals](https://fidals.com/)
+
+Fidals is a distributed software development team. We develop back-end services in Python. We use micro-tasking approach and pay/accept payment only for the result.
