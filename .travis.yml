@@ -7,7 +7,7 @@ jobs:
   include:
   - stage: Generate pdf files
     script: pandoc -o Aremiy_Rodionov_CV.pdf README.md
-    script: pandoc -o Aremiy_Rodionov_CV.ru.pdf README.ru.md
+    # script: pandoc --latex-engine=xelatex -o Aremiy_Rodionov_CV.ru.pdf README.ru.md
 
   - stage: GitHub Release
     script: skip
@@ -18,7 +18,7 @@ jobs:
       skip_cleanup: true
       file:
       - Aremiy_Rodionov_CV.pdf
-      - Aremiy_Rodionov_CV.ru.pdf
+      # - Aremiy_Rodionov_CV.ru.pdf
       on:
         tags: true
         branch: master
