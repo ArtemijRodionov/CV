@@ -4,7 +4,7 @@ fontsize: 12pt
 geometry: margin=1in
 header-includes:
   - \hypersetup{colorlinks=true,
-                linkcolor=blue}
+                allcolors=blue}
   - \usepackage[english,russian]{babel}
 ---
 
