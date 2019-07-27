@@ -8,48 +8,31 @@ header-includes:
                 pdfborderstyle={/S/U/W 1}}
 ---
 
-## Artemiy Rodionov
+# Artemiy Rodionov
 
-IT engineer. 3+ years in web development. Russia, Saint-Petersburg,
-UTC +3.
+IT engineer with experience in complex projects and distributed teams. Strong background in Python. Student in Computer Science, [Saint-Petersburg Electrotechnical University "LETI"](https://etu.ru/en/university/), 2015 &mdash; 2020. Fond of skiing, painting and gamedev. Russia, Saint-Petersburg, UTC +3.
 
 - [wertins71@gmail.com](mailto:wertins71@gmail.com)
 - [github.com/artemiy312](https://github.com/artemiy312)
 - [stackoverflow.com/users/6800156/artemiy-rodionov](https://stackoverflow.com/users/6800156/artemiy-rodionov)
 
-### Skills
-- Python, JavaScript/ES6;
+## Skills
+- Python, JavaScript ES5/6, C++/Rust;
 - Django, Flask, asyncio, aiohttp, Selenium, jQuery;
-- Docker, Swarm, Heroku, Gulp;
+- Docker, Swarm, Heroku, Sentry;
 - PostgreSQL, Redis, RabbitMQ;
+- TDD, Microtasking, Code review, CI, CD
 
-## Experience
+## Work Experience
 
-### december 2017 &mdash; may 2018: Python developer @ [8gen](https://8gen.team/)
+### december 2017 &mdash; may 2018 @ [8gen](https://8gen.team/)
 
-[cryptotrader](https://github.com/fidals/cryptotrader)
+Prototype of cryptocurrency trading bot. I developed a unified API for exchanges, a trading dashboard and algorithms. The project archive may be found on [Github](https://github.com/fidals/cryptotrader). Async Event-Driven architecture; pytest unit and integration tests; TimescaleDB, Redis; Drone CI, Docker, Sentry.
 
-Prototype of cryptocurrency trading bot. I developed a unified API for exchanges,
-a trading dashboard and trading algorithms. The project archive may be found on [Github][cryptotrader].
+### march 2017 &mdash; december 2017 @ [START](https://start.ru/)
 
+START is a streaming media platform with REST microservices architecture. I worked mostly on video transcoding services, but also on REST APIs and admin dashboard. Sync/Async REST services; MongoDB, Redis, RabbitMQ; Gitlab CI, Docker, Sentry; Kong API gateway; Yandextank; ffmpeg to handle media containers; Nginx-based VOD transcoding module.
 
-### march 2017 &mdash; december 2017: Python developer @ [START](https://start.ru/)
+### july 2016 &mdash; now @ [Fidals](https://fidals.com/)
 
-START is a video streaming platform with REST microservices architecture.
-I worked mostly on video transcoding and streaming services.
-
-### july 2016 &mdash; now: Python developer @ [Fidals](https://fidals.com/)
-
-[fidals](https://github.com/fidals/)
-
-I worked on online stores based on our own e-commerce Django packages.
-Projects are open source and may be found on [Github][fidals]
-
-
-### Education
-
-Bachelor Degree in Computer Science, [Saint-Petersburg Electrotechnical University "LETI"](https://etu.ru/en/university/), 2015 &mdash; now
-
-### Other
-
-Fond of learning new programming languages, skiing and painting.
+I worked on online stores based on our own e-commerce Django packages. Projects are open source and may be found on [Github](https://github.com/fidals/). Python, JavaScript ES6; Django, jQuery; Automated Selenium integration tests; PostgreSQL, Redis, RabbitMQ; Drone CI, Docker, Sentry.
