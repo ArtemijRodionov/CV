@@ -1,0 +1,22 @@
+sudo: required
+install:
+- sudo apt-get update
+- apt-get install texlive pandoc
+jobs:
+  include:
+    - stage: Generate pdf files
+    - pandoc -o CV.en.pdf README.en.md
+    - pandoc -o CV.ru.pdf README.ru.md
+    - stage: GitHub Release
+      script: skip
+      deploy:
+        provider: releases
+        api_key:
+          secure: YOUR_API_KEY_ENCRYPTED
+        skip_cleanup: true
+        file:
+          - README.ru.md
+          - README.en.md
+        on:
+          tags: true
+
