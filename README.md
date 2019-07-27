@@ -19,8 +19,8 @@ IT engineer with experience in complex projects and distributed teams. Strong ba
 ## Skills
 - Python, JavaScript ES5/6, C++/Rust;
 - Django, Flask, asyncio, aiohttp, Selenium, jQuery;
-- Docker, Swarm, Heroku, Sentry;
 - PostgreSQL, Redis, RabbitMQ;
+- Docker, Swarm, Heroku, Sentry;
 - TDD, Micro-tasking, Code review, CI, CD
 
 ## Recent Projects
@@ -41,4 +41,4 @@ I worked on online stores [Shopelectro](https://github.com/fidals/shopelectro) a
 
 ### july 2016 &mdash; now: Python developer @ [Fidals](https://fidals.com/)
 
-Fidals is a distributed software development team. We develop back-end services in Python. We use micro-tasking approach and pay/accept payment only for the result.
+Fidals is a distributed software development team. We develop back-end services in Python.
