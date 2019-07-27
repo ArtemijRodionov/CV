@@ -6,7 +6,9 @@ header-includes:
   - \hypersetup{colorlinks=false,
                 allbordercolors={0 0 0},
                 pdfborderstyle={/S/U/W 1}}
-  - \nobreakspace
+  - \usepackage[english,russian]{babel}
+  - \usepackage[T1]{fontenc}
+  - \usepackage[utf8]{inputenc}
 ---
 
 # Артемий Родионов
