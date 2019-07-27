@@ -1,10 +1,11 @@
 ---
 papersize: A4
-fontsize: 12pt
+fontsize: 11pt
 geometry: margin=1in
 header-includes:
   - \hypersetup{colorlinks=true,
                 allcolors=blue}
+  - \pagenumbering{gobble}
 ---
 
 # Artemiy Rodionov
