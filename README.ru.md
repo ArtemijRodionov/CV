@@ -1,11 +1,10 @@
 ---
 papersize: A4
-fontsize: 10pt
+fontsize: 12pt
 geometry: margin=1in
 header-includes:
-  - \hypersetup{colorlinks=false,
-                allbordercolors={0 0 0},
-                pdfborderstyle={/S/U/W 1}}
+  - \hypersetup{colorlinks=true,
+                linkcolor=blue}
   - \usepackage[english,russian]{babel}
 ---
 

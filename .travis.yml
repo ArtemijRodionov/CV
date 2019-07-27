@@ -6,7 +6,7 @@ install:
 jobs:
   include:
   - stage: "Generate PDF"
-    script: pandoc -o Artemiy_Rodionov_CV.pdf README.md && pandoc -s -o Artemiy_Rodionov_CV.ru.pdf README.ru.md
+    script: pandoc -o Artemiy_Rodionov_CV.pdf README.md && pandoc -o Artemiy_Rodionov_CV.ru.pdf README.ru.md
     deploy:
       provider: releases
       api_key:
