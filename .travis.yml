@@ -1,7 +1,7 @@
 sudo: required
 install:
 - sudo apt-get update
-- sudo apt-get install texlive pandoc
+- sudo apt-get install texlive pandoc lmodern
 
 jobs:
   include:
@@ -21,4 +21,5 @@ jobs:
       - Aremiy_Rodionov_CV.ru.pdf
       on:
         tags: true
+        branch: master
         repo: artemiy312/CV
