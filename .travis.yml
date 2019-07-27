@@ -5,8 +5,8 @@ install:
 jobs:
   include:
     - stage: Generate pdf files
-    - pandoc -o CV.en.pdf README.en.md
-    - pandoc -o CV.ru.pdf README.ru.md
+    - script: pandoc -o Aremiy_Rodionov_CV.pdf README.md
+    - script: pandoc -o Aremiy_Rodionov_CV.ru.pdf README.ru.md
     - stage: GitHub Release
       script: skip
       deploy:
@@ -15,8 +15,7 @@ jobs:
           secure: YOUR_API_KEY_ENCRYPTED
         skip_cleanup: true
         file:
-          - README.ru.md
-          - README.en.md
+          - Aremiy_Rodionov_CV.pdf
+          - Aremiy_Rodionov_CV.ru.pdf
         on:
           tags: true
-
