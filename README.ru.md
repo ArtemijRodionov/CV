@@ -31,7 +31,7 @@ IT инженер c опытом работы в комплексных прое
 
 ### март 2017 &mdash; декабрь 2017 @ [Платформа потокового мультимедиа](https://start.ru/)
 
-Я работал над сервисами видео транскодинга, REST APIs и админкой. Синхронные/Асинхронные сервисы с REST микросервисной архитектурой; MongoDB, Redis, RabbitMQ; Gitlab CI, Docker, Sentry; Kong API gateway; Yandextank; ffmpeg для работы с медиа контейнерами; Nginx-based VOD транскодинг модуль.
+Я работал над сервисами видео транскодинга, REST APIs и админкой. Синхронные/Асинхронные REST микросервисы; MongoDB, Redis, RabbitMQ; Gitlab CI, Docker, Sentry; Kong API gateway; Yandextank; ffmpeg для работы с медиа контейнерами; Nginx-based VOD транскодинг модуль.
 
 ### июль 2016 &mdash; сейчас @ [Онлайн магазины](https://github.com/fidals/)
 

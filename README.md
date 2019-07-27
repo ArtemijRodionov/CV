@@ -30,7 +30,7 @@ I developed a unified API for exchanges, a trading dashboard and algorithms. Asy
 
 ### march 2017 &mdash; december 2017 @ [Streaming media platform](https://start.ru/)
 
-I worked mostly on video transcoding services, but also on REST APIs and admin dashboard. Sync/Async REST microservices services; MongoDB, Redis, RabbitMQ; Gitlab CI, Docker, Sentry; Kong API gateway; Yandextank; ffmpeg to handle media containers; Nginx-based VOD transcoding module.
+I worked mostly on video transcoding services, but also on REST APIs and admin dashboard. Sync/Async REST microservices; MongoDB, Redis, RabbitMQ; Gitlab CI, Docker, Sentry; Kong API gateway; Yandextank; ffmpeg to handle media containers; Nginx-based VOD transcoding module.
 
 ### july 2016 &mdash; now @ [Online stores](https://github.com/fidals/)
 
