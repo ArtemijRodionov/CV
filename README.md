@@ -10,7 +10,7 @@ header-includes:
 
 # Artemiy Rodionov
 
-IT engineer with experience in complex projects and distributed teams. Strong background in Python. Student in Computer Science, [Saint-Petersburg Electrotechnical University "LETI"](https://etu.ru/en/university/), 2015 &mdash; 2020. Fond of skiing, painting and gamedev. Russia, Saint-Petersburg, UTC +3.
+IT engineer with experience in complex projects and distributed teams. Strong background in Python. Fond of skiing, painting and gamedev. Russia, Saint-Petersburg, UTC +3.
 
 - [wertins71@gmail.com](mailto:wertins71@gmail.com)
 - [github.com/artemiy312](https://github.com/artemiy312)
