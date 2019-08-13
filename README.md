@@ -10,7 +10,7 @@ header-includes:
 
 # Artemiy Rodionov
 
-IT engineer with experience in complex projects and distributed teams. Strong background in Python. Fond of skiing, painting and gamedev. Russia, Saint-Petersburg, UTC +3.
+Software engineer with experience in complex projects and distributed teams. Strong background in Python. Fond of skiing, painting and gamedev. Russia, Saint-Petersburg, UTC +3.
 
 - [wertins71@gmail.com](mailto:wertins71@gmail.com)
 - [github.com/artemiy312](https://github.com/artemiy312)
@@ -33,7 +33,7 @@ I developed a unified API for exchanges, a trading dashboard and algorithms. Asy
 
 I worked mostly on video transcoding services, but also on REST APIs and admin dashboard. Sync/Async REST microservices; MongoDB, Redis, RabbitMQ; Gitlab CI, Docker, Sentry; Kong API gateway; Yandextank; ffmpeg to handle media containers; Nginx-based VOD transcoding module.
 
-### july 2016 &mdash; now @ [Online stores](https://github.com/fidals/)
+### july 2016 &mdash; july 2019 @ [Online stores](https://github.com/fidals/)
 
 I worked on online stores [Shopelectro](https://github.com/fidals/shopelectro) and [Stroyprombeton](https://github.com/fidals/Stroyprombeton) based on our own e-commerce Django packages. Python, JavaScript ES6; Django, jQuery; Automated Selenium integration tests; PostgreSQL, Redis, RabbitMQ; Drone CI, Docker, Sentry.
 

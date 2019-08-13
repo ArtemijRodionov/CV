@@ -11,7 +11,7 @@ header-includes:
 
 # Артемий Родионов
 
-IT инженер c опытом работы в комплексных проектах и распределенных командах. Катаюсь на лыжах, занимаюсь живописью и геймдевом. Россия, Санкт-Петербург.
+Software инженер c опытом работы в комплексных проектах и распределенных командах. Катаюсь на лыжах, занимаюсь живописью и геймдевом. Россия, Санкт-Петербург.
 
 - [wertins71@gmail.com](mailto:wertins71@gmail.com)
 - [github.com/artemiy312](https://github.com/artemiy312)
@@ -34,9 +34,9 @@ IT инженер c опытом работы в комплексных прое
 
 Работал над сервисами видео транскодинга, REST APIs и админкой. Синхронные/Асинхронные REST микросервисы; MongoDB, Redis, RabbitMQ; Gitlab CI, Docker, Sentry; Kong API gateway; Yandextank; ffmpeg для работы с медиа контейнерами; Nginx-based VOD транскодинг модуль.
 
-### июль 2016 &mdash; сейчас @ [Онлайн магазины](https://github.com/fidals/)
+### июль 2016 &mdash; июль 2019 @ [Онлайн магазины](https://github.com/fidals/)
 
-Разрабатываю онлайн магазины [Shopelectro](https://github.com/fidals/shopelectro) и [Stroyprombeton](https://github.com/fidals/Stroyprombeton), основанные на собственных e-commerce Django пакетах. Python, JavaScript ES6; Django, jQuery; Автоматизированные интеграционные Selenium тесты; PostgreSQL, Redis, RabbitMQ; Drone CI, Docker, Sentry.
+Разрабатывал онлайн магазины [Shopelectro](https://github.com/fidals/shopelectro) и [Stroyprombeton](https://github.com/fidals/Stroyprombeton), основанные на собственных e-commerce Django пакетах. Python, JavaScript ES6; Django, jQuery; Автоматизированные интеграционные Selenium тесты; PostgreSQL, Redis, RabbitMQ; Drone CI, Docker, Sentry.
 
 ## Карьера
 
