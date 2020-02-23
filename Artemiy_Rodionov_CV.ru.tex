@@ -1,0 +1,69 @@
+\documentclass[12pt]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[english,russian]{babel}
+\usepackage{hyperref}
+\usepackage{microtype}
+\hypersetup{colorlinks=true,urlcolor=blue}
+\setlength{\parindent}{0pt}
+\usepackage[absolute]{textpos}
+  \TPGrid{16}{16}
+\usepackage[top=2\TPVertModule, bottom=2\TPVertModule, left=3\TPHorizModule, right=2\TPHorizModule]{geometry}
+\usepackage{fancyhdr}
+  \pagestyle{fancy}
+  \renewcommand{\headrulewidth}{0pt}
+  \fancyhf{}
+  \rhead{}
+  \rfoot{\small Page~\thepage}
+
+\begin{document}
+
+\section*{Артемий Родионов}
+
+\href{mailto:wertins71@gmail.com}{wertins71@gmail.com} / \href{https://t.me/artemiy312}{telegram.me/artemiy312} \newline
+\href{https://stackoverflow.com/users/6800156}{StackOverflow} /
+\href{https://github.com/artemiy312}{GitHub} /
+\href{https://gitlab.com/artemiy312}{GitLab}
+
+\medskip\textbf{Бэкэнд разработчик}.
+Работаю с Python и JavaScript.
+Иногда пишу на Go и Rust.
+Катаюсь на лыжах, занимаюсь живописью, делаю игры.
+Россия, Санкт-Петербург.
+
+\subsection*{Кратко}
+\begin{itemize}
+\item 3+ года в сложных проектах с Python/JavaScript
+\item Опыт с PostgreSQL, Redis, RabbitMQ, Docker, Swarm, Heroku, Unix
+\item Практикую TDD, CI/CD, короткие итерации, рефакторинг
+\end{itemize}
+
+\subsection*{Проекты}
+
+\textbf{2019}. \href{https://app.fama.family/}{Fama.family}. EdTech платформа о финансах.
+Разрабатывал REST API, админку и SPA.
+Делал синтез речи и плеер для текстовых уроков, интеграцию уроков с чат-ботом для ввода данных, индексацию источников с финансовыми статьями и полнотекстовый поиск.
+Falcon, Django, Vue.js, PostgreSQL, Redis, Apache Solr, Centrifugo, Docker.
+
+\medskip
+\textbf{2018}. \href{https://github.com/fidals/cryptotrader}{Cryptotrader}. Торговый-бот на криптовалютных биржах.
+Разрабатывал клиентский API для четырех бирж на Python с asyncio, торговый алгоритм арбитража, отчеты о сделках в Telegram, веб-панель состояния бота.
+Aiohttp, Pytest, TimescaleDB, Redis, Docker, Drone CI, Sentry.
+
+\medskip
+\textbf{2017}. \href{https://start.ru/}{Start.ru}. Видео-стриминговая платформа.
+Разрабатывал сервисы конфигурации стиминга, транскодинга медиафайлов и админку.
+Делал полнотекстовый поиск, репликацию данных из MongoDB в ElasticSearch.
+Aiohttp, Flask, Pytest, RabbitMQ, Docker, Datadog, GitLab CI.
+
+\medskip
+\textbf{2016}. \href{https://github.com/fidals/shopelectro}{Shopelectro.ru} \href{https://github.com/fidals/stroyprombeton}{Stroyprombeton.ru}.
+E-commerce проекты. Разрабатывал фротэнд и бэкэнд на общей \href{https://github.com/fidals/refarm-site}{платформе для магазинов}.
+Делал импорт базы товаров из 1С, генерацию Excel прайс-листа, полнотекстовый поиск, табличный редактор товаров, генерацию текстов по фильтрам.
+Django, Celery, jQuery, Selenium, PostgreSQL, Redis, RabbitMQ, Docker, Drone CI.
+
+\subsection*{Карьера}
+Команда \href{https://github.com/fidals}{Фидалс}. Июнь 2016 - текущий момент.
+Разрабатывали Shopelectro, Stroyprombeton, Start.ru и Cryptotrader.
+
+\end{document}

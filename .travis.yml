@@ -1,12 +1,6 @@
-sudo: required
-install:
-- sudo apt-get update
-- sudo apt-get install texlive texlive-lang-cyrillic cm-super lmodern pandoc
-
 jobs:
   include:
-  - stage: "Generate PDF"
-    script: pandoc -o Artemiy_Rodionov_CV.pdf README.md && pandoc -o Artemiy_Rodionov_CV.ru.pdf README.ru.md
+  - stage: "Deploy"
     deploy:
       provider: releases
       api_key:
